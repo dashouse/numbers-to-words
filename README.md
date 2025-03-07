@@ -3,13 +3,15 @@ A chrome extension to convert numbers in webpages to words
 
 ## To test
 
-Download this repo as a zip and open it
+Download this repo as a zip and unzip it
 
 Go to chrome://extensions/
 
 Toggle "developer mode" on.
 
-Select "load unpacked". You should now see "Number to words" as a extension.
+Select "load unpacked" and select the unzipped folder wherever you saved it.
+
+You should now see "Number to words" added as a extension.
 
 Go to a webpage in Chrome. Select the puzzle icon in the top right.
 
