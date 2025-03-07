@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Number to Words",
+  "version": "1.0",
+  "description": "Replaces numbers with their written versions on webpages",
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+  "permissions": [
+    "activeTab",
+    "declarativeContent"
+  ]
+}
