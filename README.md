@@ -1,6 +1,13 @@
 # numbers-to-words
 A chrome extension to convert numbers in webpages to words
 
+## Status
+
+This is purely experimental. There are known issues with:
+- 4 digit numbers
+- numbers with m suffix
+- changing non visible numbers in the HTML
+
 ## To test
 
 Download this repo as a zip and unzip it
