@@ -4,9 +4,7 @@ A chrome extension to convert numbers in webpages to words
 ## Status
 
 This is purely experimental. There are known issues with:
-- 4 digit numbers
-- numbers with m suffix
-- changing non visible numbers in the HTML
+- numbers with k,m,bn suffix
 
 ## To test
 
